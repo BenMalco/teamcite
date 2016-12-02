@@ -23,6 +23,8 @@ div.container {
 }
 */
 h1 {
+	margin: 0;
+	padding: 0;
   color: #fff;
   font-family: 'Playfair Display', serif;
   font-size: 52px;
