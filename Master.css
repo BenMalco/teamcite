@@ -3,6 +3,8 @@
 }
 head {
 	z-index: 1000;
+	margin: 0;
+	padding: 0;
 }
 /*
 body {
@@ -41,6 +43,7 @@ div.container {
 
 .navigation ul {
   padding: 0;
+margin: 0;
 }
 
 .navigation li {
@@ -52,7 +55,8 @@ Position: relative;
   font-weight: 100;
   letter-spacing: 2px;
   width: 100%;
-  margin: 20px;
+  margin: 0;
+padding: 0;
   text-transform: uppercase;
 	z-index: 1000;
 	
