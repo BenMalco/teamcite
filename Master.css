@@ -37,7 +37,7 @@ position: relative;
 top: 10%;
   background-color: rgba(255, 255, 255, 0.9);
   height: auto;
-  text-align: center;
+  text-align: left;
   
   z-index: 999;
 }
@@ -48,7 +48,7 @@ margin: 0;
 }
 
 .navigation li {
-top: 240px;
+
   color: #666666;
   display: inline;
   font-family: 'Roboto', sans-serif;
@@ -58,10 +58,7 @@ top: 240px;
   width: 100%;
   margin: 0;
 padding: 0;
-  text-transform: uppercase;
-	
-	z-index: 1000;
-	
+  text-transform: uppercase;	
 }
 
 /*
