@@ -8,6 +8,12 @@ html, body {
 	width: 100%;
 }
 
+.header {
+align-items: left;
+background-color: rgb(54, 65, 30);
+	
+}
+
 body {
 	align-items: center;
   background-color: #FFF;
