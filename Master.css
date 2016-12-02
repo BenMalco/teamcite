@@ -34,6 +34,7 @@ div.container {
 .header {
 margin: 0;
 padding: 0;
+position: fixed;
 }
 .navigation {
   background-color: rgba(255, 255, 255, 0.9);
