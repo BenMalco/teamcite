@@ -1,7 +1,9 @@
-* * {
+* {
   box-sizing: border-box;
 }
-
+head {
+	z-index: 1000;
+}
 /*
 body {
 	align-items: center;
