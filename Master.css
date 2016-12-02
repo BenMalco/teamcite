@@ -53,6 +53,7 @@ margin: 0;
 
 .navigation li {
 Position: relative;
+top: 10%;
   color: #666666;
   display: inline;
   font-family: 'Roboto', sans-serif;
@@ -63,6 +64,7 @@ Position: relative;
   margin: 0;
 padding: 0;
   text-transform: uppercase;
+	
 	z-index: 1000;
 	
 }
