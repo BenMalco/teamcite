@@ -52,6 +52,8 @@ Position: relative;
   width: 100%;
   margin: 20px;
   text-transform: uppercase;
+	z-index: 1000;
+	
 }
 
 /*
