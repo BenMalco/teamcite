@@ -39,7 +39,7 @@ h1 {
   color: #04387a;
   font-family: 'Oswald', sans-serif;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 900;
   margin: 0 0;
   text-transform: uppercase;
 }
@@ -48,7 +48,7 @@ h2 {
   color: #333;
   font-family: 'Varela Round', sans-serif;
   font-size: 12px;
-  font-weight: 100;
+  font-weight: 300;
   margin: 0 auto 40px auto;
 }
 
