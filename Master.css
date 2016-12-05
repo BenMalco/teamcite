@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  z-index: 200;
+  z-index: 1000;
   background-color: #04387a;
   border-bottom: 1px solid #466995;
   overflow-y: auto;
@@ -82,10 +82,10 @@ p {
   padding: 10px;
   position: fixed;
   left: 0;
-  top: 40px;
+  top: 65px;
   text-align: center;
   width: 100%;
-  z-index: 50;
+  z-index: 999;
 }
 
 .question {
