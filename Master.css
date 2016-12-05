@@ -38,7 +38,7 @@ li:hover {
 h1 {
   color: #04387a;
   font-family: 'Oswald', sans-serif;
-  font-size: 32px;
+  font-size: 16px;
   font-weight: 300;
   text-transform: uppercase;
 }
@@ -46,7 +46,7 @@ h1 {
 h2 {
   color: #333;
   font-family: 'Varela Round', sans-serif;
-  font-size: 26px;
+  font-size: 12px;
   font-weight: 100;
   margin: 0 auto 40px auto;
 }
