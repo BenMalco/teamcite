@@ -87,7 +87,7 @@ p {
   background-color: #dddddd;
   box-sizing: border-box;
   padding: 10px;
-  position: relative;
+  position: fixed;
   left: 0;
   top: 65px;
   text-align: center;
