@@ -4,7 +4,10 @@ border-color: solid rgb(0, 0, 0);
 
 a {
  color: #FFF;
+}
 
+a:hover {
+ color: #ccc;
 }
 
 body {
