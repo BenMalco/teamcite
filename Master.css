@@ -10,6 +10,10 @@ a:hover {
  color: #ccc;
 }
 
+a:click {
+ color: #aaa;
+}
+
 body {
   background-color: #FFF;
   margin: 0;
