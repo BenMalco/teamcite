@@ -2,6 +2,11 @@
 border-color: solid rgb(0, 0, 0);
 }
 
+a {
+ color: #FFF;
+
+}
+
 body {
   background-color: #FFF;
   margin: 0;
@@ -26,7 +31,6 @@ ul {
 
 li {
   color: #FFF;
-  font-color: #FFF;
   display: inline-block;
   font-family: 'Oswald', sans-serif;
   font-size: 16px;
