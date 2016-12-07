@@ -111,10 +111,11 @@ p {
 .question {
   margin: 0px 0px;
  margin-left: 0;
-  position: fixed;
+  position: absolute;
+ left: 0px
   top: 135px;
   text-align: center;
- 
+    
 }
 
 .answer {
