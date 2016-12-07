@@ -110,6 +110,7 @@ p {
 
 .question {
   margin: 0px 0px;
+ margin-left: 0;
   position: fixed;
   top: 135px;
   text-align: center;
