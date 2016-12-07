@@ -109,8 +109,8 @@ p {
 }
 
 .question {
-  margin: 0px auto;
-  position: relative;
+  margin: 0px 0px;
+  position: fixed;
   top: 135px;
   text-align: center;
  
