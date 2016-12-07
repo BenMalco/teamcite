@@ -108,7 +108,7 @@ p {
   z-index: 999;
 }
 
-.question {
+div.question {
   margin: 0px 0px;
  margin-left: 0;
   position: absolute;
