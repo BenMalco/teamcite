@@ -3,9 +3,11 @@ border-color: solid rgb(0, 0, 0);
 }
 .transbox {
   z-index: 1002;
-  margin: 30px;
+  margin: 0px;
   background-color: #ffffff;
   border: 1px solid black;
+  height: 840px;
+  width: 100%;
   opacity: 0.6;
   
 }
