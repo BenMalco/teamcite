@@ -1,13 +1,13 @@
 * {
 border-color: solid rgb(0, 0, 0);
 }
-div.transbox {
+transbox {
   z-index: 1002;
   margin: 30px;
   background-color: #ffffff;
   border: 1px solid black;
   opacity: 0.6;
-  filter: alpha(opacity=60); /* For IE8 and earlier */
+  
 }
 
 
