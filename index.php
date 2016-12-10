@@ -15,7 +15,10 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
     {
     
     
-        $userName     = @$_POST['name'];
+        $userFName     = @$_POST['FirstName'];
+	$userSName     = @$_POST['Surname'];
+	$userNName	= @$_POST['Nicname'];
+    	$userDOB	= @$_POST['DOB'];
         $userEmail    = @$_POST['email'];
         $password     = @$_POST['password'];
     
@@ -32,7 +35,9 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
     "TableName" => $tableName,
     "Item" => $client->formatAttributes(array(
         "Id" =>  $profileId,
-        "name" => $userName,
+        "FirstName" => $userFName,
+	"Surname" => $userSName,
+	"Nicname" => $userNName,
         "useremail" => $userEmail,
         "password" => md5($password),
         "profileImagename" => $actual_image_name,
