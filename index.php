@@ -81,8 +81,22 @@ echo "Consumed capacity: " . $response["ConsumedCapacity"]["CapacityUnits"] . PH
                         <form role="form" method="post" action="" enctype="multipart/form-data" name="regForm" id="regForm">
 
                             <div class="form-group">
-                                <label>Name</label>
-                                <input class="form-control" name="name">
+                                <label>FirstName</label>
+                                <input class="form-control" name="FirstName">
+                            </div>
+				
+                            <div class="form-group">
+                                <label>Surname</label>
+                                <input class="form-control" name="Surname">
+                            </div>
+
+                            <div class="form-group">
+                                <label>Nicname</label>
+                                <input class="form-control" name="Nicname">
+                            </div>
+                            <div class="form-group">
+                                <label>DOB</label>
+                                <input class="form-control" name="DOB">
                             </div>
 
                             <div class="form-group">
